@@ -1,0 +1,170 @@
+=========================System Information=========================
+MAC Address: 58166062523437
+HEX MAC Address: 34:e6:d7:7e:a4:2d
+=========================System Information=========================
+MAC Address: 58166062523437
+HEX MAC Address: 34:e6:d7:7e:a4:2d
+Ip Address: 2001:ee0:4e1d:9770:9d55:7005:1b9d:5395
+
+
+2023-12-27 18:39:36,136: 
+
+2023-12-27 18:39:36,136: Host Name:                 DESKTOP-HP5BC7H
+
+2023-12-27 18:39:36,136: OS Name:                   Microsoft Windows 10 Pro
+
+2023-12-27 18:39:36,136: OS Version:                10.0.19045 N/A Build 19045
+
+2023-12-27 18:39:36,136: OS Manufacturer:           Microsoft Corporation
+
+2023-12-27 18:39:36,136: OS Configuration:          Standalone Workstation
+
+2023-12-27 18:39:36,136: OS Build Type:             Multiprocessor Free
+
+2023-12-27 18:39:36,136: Registered Owner:          Phuc
+
+2023-12-27 18:39:36,136: Registered Organization:   N/A
+
+2023-12-27 18:39:36,136: Product ID:                00330-80000-00000-AA920
+
+2023-12-27 18:39:36,136: Original Install Date:     10/24/2023, 10:53:16 AM
+
+2023-12-27 18:39:36,136: System Boot Time:          12/27/2023, 6:29:36 PM
+
+2023-12-27 18:39:36,136: System Manufacturer:       Dell Inc.
+
+2023-12-27 18:39:36,136: System Model:              Vostro 3558
+
+2023-12-27 18:39:36,136: System Type:               x64-based PC
+
+2023-12-27 18:39:36,136: Processor(s):              1 Processor(s) Installed.
+
+2023-12-27 18:39:36,136:                            [01]: Intel64 Family 6 Model 69 Stepping 1 GenuineIntel ~1700 Mhz
+
+2023-12-27 18:39:36,136: BIOS Version:              Dell Inc. A08, 7/1/2016
+
+2023-12-27 18:39:36,136: Windows Directory:         C:\\Windows
+
+2023-12-27 18:39:36,136: System Directory:          C:\\Windows\\system32
+
+2023-12-27 18:39:36,136: Boot Device:               \\Device\\HarddiskVolume2
+
+2023-12-27 18:39:36,136: System Locale:             en-us;English (United States)
+
+2023-12-27 18:39:36,136: Input Locale:              en-us;English (United States)
+
+2023-12-27 18:39:36,136: Time Zone:                 (UTC+07:00) Bangkok, Hanoi, Jakarta
+
+2023-12-27 18:39:36,136: Total Physical Memory:     8,109 MB
+
+2023-12-27 18:39:36,136: Available Physical Memory: 3,747 MB
+
+2023-12-27 18:39:36,136: Virtual Memory: Max Size:  9,314 MB
+
+2023-12-27 18:39:36,150: Virtual Memory: Available: 4,904 MB
+
+2023-12-27 18:39:36,151: Virtual Memory: In Use:    4,410 MB
+
+2023-12-27 18:39:36,152: Page File Location(s):     C:\\pagefile.sys
+
+2023-12-27 18:39:36,152: Domain:                    WORKGROUP
+
+2023-12-27 18:39:36,152: Logon Server:              \\\\DESKTOP-HP5BC7H
+
+2023-12-27 18:39:36,152: Hotfix(s):                 11 Hotfix(s) Installed.
+
+2023-12-27 18:39:36,152:                            [01]: KB5032005
+
+2023-12-27 18:39:36,152:                            [02]: KB5030841
+
+2023-12-27 18:39:36,152:                            [03]: KB5011048
+
+2023-12-27 18:39:36,152:                            [04]: KB5015684
+
+2023-12-27 18:39:36,152:                            [05]: KB5020683
+
+2023-12-27 18:39:36,152:                            [06]: KB5032189
+
+2023-12-27 18:39:36,152:                            [07]: KB5014032
+
+2023-12-27 18:39:36,152:                            [08]: KB5025315
+
+2023-12-27 18:39:36,152:                            [09]: KB5031539
+
+2023-12-27 18:39:36,152:                            [10]: KB5031540
+
+2023-12-27 18:39:36,152:                            [11]: KB5032392
+
+2023-12-27 18:39:36,152: Network Card(s):           2 NIC(s) Installed.
+
+2023-12-27 18:39:36,152:                            [01]: Intel(R) Dual Band Wireless-AC 3160
+
+2023-12-27 18:39:36,152:                                  Connection Name: Wi-Fi
+
+2023-12-27 18:39:36,152:                                  DHCP Enabled:    Yes
+
+2023-12-27 18:39:36,152:                                  DHCP Server:     192.168.1.1
+
+2023-12-27 18:39:36,152:                                  IP address(es)
+
+2023-12-27 18:39:36,152:                                  [01]: 192.168.1.7
+
+2023-12-27 18:39:36,152:                                  [02]: fe80::52ec:a6e0:b83e:6512
+
+2023-12-27 18:39:36,152:                                  [03]: 2001:ee0:4e1d:9770:9d55:7005:1b9d:5395
+
+2023-12-27 18:39:36,152:                                  [04]: 2001:ee0:4e1d:9770:3d4e:3638:d449:dc27
+
+2023-12-27 18:39:36,152:                            [02]: Realtek PCIe GbE Family Controller
+
+2023-12-27 18:39:36,152:                                  Connection Name: Ethernet
+
+2023-12-27 18:39:36,152:                                  Status:          Media disconnected
+
+2023-12-27 18:39:36,152: Hyper-V Requirements:      VM Monitor Mode Extensions: Yes
+
+2023-12-27 18:39:36,152:                            Virtualization Enabled In Firmware: Yes
+
+2023-12-27 18:39:36,152:                            Second Level Address Translation: Yes
+
+2023-12-27 18:39:36,152:                            Data Execution Prevention Available: Yes
+
+2023-12-27 18:39:36,152: 
+
+2023-12-27 18:39:38,319: s
+
+2023-12-27 18:39:38,366: a
+
+2023-12-27 18:39:38,491: d
+
+2023-12-27 18:39:39,133: d
+
+2023-12-27 18:39:39,164: s
+
+2023-12-27 18:39:39,226: a
+
+2023-12-27 18:39:39,320: d
+
+2023-12-27 18:39:41,529: p
+
+2023-12-27 18:39:41,561: o
+
+2023-12-27 18:39:42,202: Key.backspace
+
+2023-12-27 18:39:42,392: Key.backspace
+
+2023-12-27 18:39:42,564: Key.backspace
+
+2023-12-27 18:39:43,505: p
+
+2023-12-27 18:39:43,851: h
+
+2023-12-27 18:39:43,976: c
+
+2023-12-27 18:39:44,273: t
+
+2023-12-27 18:39:44,384: r
+
+2023-12-27 18:39:44,494: l
+
+2023-12-27 18:39:44,728: z

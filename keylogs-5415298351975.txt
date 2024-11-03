@@ -1,0 +1,86 @@
+=========================System Information=========================
+MAC Address: 5415298351975
+HEX MAC Address: 04:ec:d8:ef:43:67
+=========================System Information=========================
+MAC Address: 5415298351975
+HEX MAC Address: 04:ec:d8:ef:43:67
+2024-11-03 12:07:19,557: 
+2024-11-03 12:07:19,557: Host Name:                     PHCTRZ
+2024-11-03 12:07:19,557: OS Name:                       Microsoft Windows 11 Home Single Language
+2024-11-03 12:07:19,557: OS Version:                    10.0.26100 N/A Build 26100
+2024-11-03 12:07:19,557: OS Manufacturer:               Microsoft Corporation
+2024-11-03 12:07:19,557: OS Configuration:              Standalone Workstation
+2024-11-03 12:07:19,559: OS Build Type:                 Multiprocessor Free
+2024-11-03 12:07:19,559: Registered Owner:              phuc
+2024-11-03 12:07:19,559: Registered Organization:       
+2024-11-03 12:07:19,559: Product ID:                    00342-42690-60498-AAOEM
+2024-11-03 12:07:19,559: Original Install Date:         11/1/2024, 6:34:47 PM
+2024-11-03 12:07:19,559: System Boot Time:              11/2/2024, 1:50:52 PM
+2024-11-03 12:07:19,559: System Manufacturer:           ASUSTeK COMPUTER INC.
+2024-11-03 12:07:19,559: System Model:                  ASUS TUF Gaming F15 FX507VV_FX507VV
+2024-11-03 12:07:19,559: System Type:                   x64-based PC
+2024-11-03 12:07:19,559: Processor(s):                  1 Processor(s) Installed.
+2024-11-03 12:07:19,559:                                [01]: Intel64 Family 6 Model 186 Stepping 2 GenuineIntel ~2400 Mhz
+2024-11-03 12:07:19,559: BIOS Version:                  American Megatrends International, LLC. FX507VV.327, 2/29/2024
+2024-11-03 12:07:19,559: Windows Directory:             C:\\WINDOWS
+2024-11-03 12:07:19,559: System Directory:              C:\\WINDOWS\\system32
+2024-11-03 12:07:19,559: Boot Device:                   \\Device\\HarddiskVolume1
+2024-11-03 12:07:19,559: System Locale:                 en-us;English (United States)
+2024-11-03 12:07:19,559: Input Locale:                  en-us;English (United States)
+2024-11-03 12:07:19,559: Time Zone:                     (UTC+07:00) Bangkok, Hanoi, Jakarta
+2024-11-03 12:07:19,559: Total Physical Memory:         16,003 MB
+2024-11-03 12:07:19,559: Available Physical Memory:     6,624 MB
+2024-11-03 12:07:19,559: Virtual Memory: Max Size:      21,123 MB
+2024-11-03 12:07:19,559: Virtual Memory: Available:     10,660 MB
+2024-11-03 12:07:19,559: Virtual Memory: In Use:        10,463 MB
+2024-11-03 12:07:19,559: Page File Location(s):         C:\\pagefile.sys
+2024-11-03 12:07:19,559: Domain:                        WORKGROUP
+2024-11-03 12:07:19,559: Logon Server:                  \\\\PHCTRZ
+2024-11-03 12:07:19,559: Hotfix(s):                     4 Hotfix(s) Installed.
+2024-11-03 12:07:19,559:                                [01]: KB5045934
+2024-11-03 12:07:19,559:                                [02]: KB5044384
+2024-11-03 12:07:19,559:                                [03]: KB5046306
+2024-11-03 12:07:19,559:                                [04]: KB5046908
+2024-11-03 12:07:19,559: Network Card(s):               3 NIC(s) Installed.
+2024-11-03 12:07:19,559:                                [01]: Realtek PCIe GbE Family Controller
+2024-11-03 12:07:19,559:                                      Connection Name: Ethernet
+2024-11-03 12:07:19,560:                                      Status:          Media disconnected
+2024-11-03 12:07:19,560:                                [02]: Intel(R) Wi-Fi 6 AX201 160MHz
+2024-11-03 12:07:19,560:                                      Connection Name: Wi-Fi
+2024-11-03 12:07:19,560:                                      DHCP Enabled:    Yes
+2024-11-03 12:07:19,560:                                      DHCP Server:     192.168.1.1
+2024-11-03 12:07:19,560:                                      IP address(es)
+2024-11-03 12:07:19,560:                                      [01]: 192.168.1.212
+2024-11-03 12:07:19,560:                                      [02]: fe80::3f6b:b5d7:8db8:5cf
+2024-11-03 12:07:19,560:                                [03]: Bluetooth Device (Personal Area Network)
+2024-11-03 12:07:19,560:                                      Connection Name: Bluetooth Network Connection
+2024-11-03 12:07:19,560:                                      Status:          Media disconnected
+2024-11-03 12:07:19,560: Virtualization-based security: Status: Running
+2024-11-03 12:07:19,560:                                Required Security Properties:
+2024-11-03 12:07:19,560:                                Available Security Properties:
+2024-11-03 12:07:19,560:                                      Base Virtualization Support
+2024-11-03 12:07:19,560:                                      Secure Boot
+2024-11-03 12:07:19,560:                                      DMA Protection
+2024-11-03 12:07:19,560:                                      UEFI Code Readonly
+2024-11-03 12:07:19,560:                                      Mode Based Execution Control
+2024-11-03 12:07:19,560:                                      APIC Virtualization
+2024-11-03 12:07:19,560:                                Services Configured:
+2024-11-03 12:07:19,560:                                      Hypervisor enforced Code Integrity
+2024-11-03 12:07:19,560:                                Services Running:
+2024-11-03 12:07:19,560:                                      Hypervisor enforced Code Integrity
+2024-11-03 12:07:19,560:                                App Control for Business policy: Enforced
+2024-11-03 12:07:19,560:                                App Control for Business user mode policy: Off
+2024-11-03 12:07:19,560:                                Security Features Enabled:
+2024-11-03 12:07:19,560: Hyper-V Requirements:          A hypervisor has been detected. Features required for Hyper-V will not be displayed.
+2024-11-03 12:07:19,560: 
+2024-11-03 12:07:28,256: a
+2024-11-03 12:07:29,427: b
+2024-11-03 12:07:29,707: c
+2024-11-03 12:07:29,943: d
+2024-11-03 12:07:30,153: e
+2024-11-03 12:07:30,818: f
+2024-11-03 12:07:31,302: h
+2024-11-03 12:07:31,765: r
+2024-11-03 12:07:32,128: e
+2024-11-03 12:07:32,593: w
+2024-11-03 12:07:32,814: q
